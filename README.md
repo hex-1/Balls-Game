@@ -64,7 +64,7 @@ Escape  .......... Exit Game
   > There is 8 different maps in the current release, in the future I may add more maps it depends if I think there is a need
 * Is there any limit on the number of players?
   > there isn’t any set limits however I have only tested the game with up to 100 players. You may find that depending on your system performance that the game may run slow with a large number of players.
-* if I run the same map multiple times will I get a different output?
+* If I run the same map multiple times will I get a different output?
   > Yes, the game is based off of physics, so it is complete luck who comes in what position.
 * Is the game suitable for all sections?
   > yes the game has been tested with Beavers, Cubs, Scouts and Explorers and they all loved it.
