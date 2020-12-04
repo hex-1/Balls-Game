@@ -10,7 +10,7 @@ Each person is represented by a ball and they all race to the end. The only cont
 
 2. Extract the compressed file called Game
 
-3. Run the executable called balls
+3. Run the executable called balls, you may get a windows smart screen notification, if you do press more info and then run anyway
 
 4. Using zoom share the screen you have the game on 
 
