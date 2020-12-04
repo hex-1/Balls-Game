@@ -69,6 +69,10 @@ Escape  .......... Exit Game
 * Is the game suitable for all sections?
   > yes the game has been tested with Beavers, Cubs, Scouts and Explorers and they all loved it.
   
+<h2> Maps </h2>
+
+![Map1](maps/Map 1.PNG)
+
 <h2> Other Details </h2>
 
 This game was made by Laura Morris (myself) using the unity game engine. This was done entirely for entertainment only and does not come with any form of warranty. The game does not keep any logs of what happens and does not send any information to me or any other third parties.
