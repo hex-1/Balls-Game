@@ -8,7 +8,7 @@ Each person is represented by a ball and they all race to the end. The only cont
 
 1. Download the game using the green button above and pressing download zip.
 
-2. Extract the compressed file 
+2. Extract the compressed file called Game
 
 3. Run balls game
 
