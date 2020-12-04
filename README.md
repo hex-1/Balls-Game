@@ -10,7 +10,7 @@ Each person is represented by a ball and they all race to the end. The only cont
 
 2. Extract the compressed file called Game
 
-3. Run balls game
+3. Run the executable called balls
 
 4. Using zoom share the screen you have the game on 
 
