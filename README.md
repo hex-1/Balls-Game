@@ -54,19 +54,21 @@ Escape  .......... Exit Game
 
 <h2> FAQ </h2>
 
-* If more than one person is using the same device how can they both play separately.
+* If more than one person is using the same device how can they both play separately?
   > If they have called them self’s "Sam and Bob" they will be split automatically or if they have done "Sam, Dave and Bob" they will also be split.
 * If the game has already started can anyone else join?
   > No, the players are only updated when you press the read button or select one of the maps.
-* Will this work on Mac
+* Will this work on Mac or Linux?
   > No, The game will only work on windows
 * How many maps are there and will there be any more in the future
   > There is 8 different maps in the current release, in the future I may add more maps it depends if I think there is a need
-* Is there any limit on the number of players
+* Is there any limit on the number of players?
   > there isn’t any set limits however I have only tested the game with up to 100 players. You may find that depending on your system performance that the game may run slow with a large number of players.
-* if I run the same map multiple times will I get a different output
+* if I run the same map multiple times will I get a different output?
   > Yes, the game is based off of physics, so it is complete luck who comes in what position.
-
+* Is the game suitable for all sections?
+  > yes the game has been tested with Beavers, Cubs, Scouts and Explorers and they all loved it.
+  
 <h2> Other Details </h2>
 
 This game was made by Laura Morris (myself) using the unity game engine. This was done entirely for entertainment only and does not come with any form of warranty. The game does not keep any logs of what happens and does not send any information to me or any other third parties.
