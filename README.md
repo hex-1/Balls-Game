@@ -71,7 +71,18 @@ Escape  .......... Exit Game
   
 <h2> Maps </h2>
 
-![Map1](maps/Map 1.PNG)
+<p float="left">
+  <img src="/maps/Map1.PNG" width=22% />
+  <img src="/maps/Map2.PNG" width=22% /> 
+  <img src="/maps/Map3.PNG" width=22% />
+  <img src="/maps/Map4.PNG" width=22% />
+</p>
+<p float="left">
+  <img src="/maps/Map5.PNG" width=22% />
+  <img src="/maps/Map6.PNG" width=22% /> 
+  <img src="/maps/Map7.PNG" width=22% />
+  <img src="/maps/Map8.PNG" width=22% />
+</p>
 
 <h2> Other Details </h2>
 
